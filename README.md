@@ -1,6 +1,5 @@
 ﻿# RainbowCV
 
-![logo](https://github.com/ZhuJD-China/RainbowCV//raw/master/logo/logo.jpg)
 <div align="center">
   <p>
     <a align="center" href="https://github.com/ZhuJD-China/RainbowCV" target="_blank">
